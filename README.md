@@ -1,4 +1,9 @@
-### Hi there 👋
+###
+名字: Martin
+工龄: 3Y
+别名: 无敌
+公司: 目前就职于浙江古茗科技有限公司
+学习: React、webpack、vue
 
 <!--
 **Gloomysunday28/Gloomysunday28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
