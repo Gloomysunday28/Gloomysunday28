@@ -1,8 +1,6 @@
 ###
 ### 技术栈
-<img src="https://img.shields.io/badge/react-16.12-green" />
-<img src="https://img.shields.io/badge/vue-2.6.0-green" />
-<img src="https://img.shields.io/badge/vue-3.x-green" />
+<img src="https://img.shields.io/badge/react-16.12-success" /> <img src="https://img.shields.io/badge/vue-2.6.0-important" /> <img src="https://img.shields.io/badge/vue-3.x-success" />
 
 名字: Martin
 
