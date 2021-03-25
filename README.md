@@ -13,6 +13,8 @@
 学习: React、webpack、vue
 
 联系方式: 459953103@qq.com
+
+Vue2.x源码解析: https://gloomysunday28.github.io/vue-source/
 <!--
 **Gloomysunday28/Gloomysunday28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
