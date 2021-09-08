@@ -16,7 +16,7 @@
 
 Vue2.x源码解析: https://gloomysunday28.github.io/vue-source/
 
-[![Gloomysunday28's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gloomysunday28&show_icons=true&theme=gruvbox)](https://github.com/Gloomysunday28)
+[![Gloomysunday28's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gloomysunday28&show_icons=true&theme=synthwave)](https://github.com/Gloomysunday28)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
