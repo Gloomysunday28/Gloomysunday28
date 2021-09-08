@@ -18,10 +18,9 @@ Vue2.x源码解析: https://gloomysunday28.github.io/vue-source/
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Gloomysunday28&repo=vue-skeleton)](https://github.com/Gloomysunday28/vue-skeleton)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Gloomysunday28's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gloomysunday28&show_icons=true&theme=radical)](https://github.com/Gloomysunday28)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Gloomysunday28's github activity graph](https://activity-graph.herokuapp.com/graph?username=Gloomysunday28&theme=dracula)](https://github.com/Gloomysunday28)
 
