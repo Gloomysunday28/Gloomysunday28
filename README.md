@@ -20,6 +20,8 @@ Vue2.x源码解析: https://gloomysunday28.github.io/vue-source/
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Gloomysunday28's github activity graph](https://activity-graph.herokuapp.com/graph?username=Gloomysunday28&theme=dracula)](https://github.com/Gloomysunday28)
+
 <!--
 **Gloomysunday28/Gloomysunday28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
